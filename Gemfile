@@ -43,6 +43,7 @@ group :development do
   gem "capistrano", "~> 3.4"
   gem "capistrano-rvm"
   gem "capistrano-rails"
+  gem "capistrano-ssh-doctor", '~> 1.0'
 end
 
 group :development do
